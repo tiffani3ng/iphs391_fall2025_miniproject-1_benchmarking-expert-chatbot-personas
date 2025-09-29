@@ -1,4 +1,3 @@
-```markdown
 # Benchmarking Expert Chatbot Personas
 
 ![Last Commit](https://img.shields.io/github/last-commit/tiffani3ng/iphs391_fall2025_miniproject-1_benchmarking-expert-chatbot-personas)
@@ -133,4 +132,3 @@ Open a PR with a clear summary of changes and rationale. For substantial changes
 Developed as part of **IPHS 391 (Fall 2025)**.
 
 ---
-```
