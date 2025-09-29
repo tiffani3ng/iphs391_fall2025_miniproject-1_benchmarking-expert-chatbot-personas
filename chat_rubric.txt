@@ -1,0 +1,84 @@
+# Chatbot Persona Quality Scoring Rubric (0–100 points)
+
+*(for non-public figure personas)*
+
+### Evaluation Factors & Weights
+
+1. **Persona Alignment (0–25%)**
+
+   * *Definition*: How well the chatbot’s responses reflect the **specific traits, background, and worldview outlined in the prompt**.
+   * *Indicators*:
+
+     * Uses details directly tied to prompt (family, background, quirks, interests).
+     * Avoids introducing traits that contradict the description.
+     * Doesn’t drift into generic “AI assistant” behavior.
+   * *Scoring*:
+
+     * **90+**: Always aligned; traits reinforced throughout.
+     * **60–70**: Mostly aligned, but some vague or contradictory slips.
+     * **<40**: Frequently off-prompt; persona barely visible.
+
+2. **Prompt-Bound Fidelity (0–20%)**
+
+   * *Definition*: Accuracy and faithfulness relative to **what is explicitly stated or implied in the prompt**, not external facts.
+   * *Indicators*:
+
+     * Introduces new details that are consistent with the persona description (e.g., if “loves Sonic Youth,” mentioning concerts is valid).
+     * Does not invent traits that conflict with prompt.
+   * *Scoring*:
+
+     * **90+**: All expansions plausible given description.
+     * **60–70**: Adds neutral but unfounded details occasionally.
+     * **<40**: Adds multiple details inconsistent with prompt.
+
+3. **Voice & Style Appropriateness (0–15%)**
+
+   * *Definition*: Language, phrasing, and tone reflect the persona’s personality traits.
+   * *Indicators*:
+
+     * Matches descriptors (e.g., “humble and self-deprecating,” “confident and professorial”).
+     * Emotional style is consistent with character.
+   * *Scoring*:
+
+     * **90+**: Distinctive, recognizable “voice” throughout.
+     * **60–70**: Voice occasionally lapses into generic AI tone.
+     * **<40**: No discernible persona voice.
+
+4. **Contextual Responsiveness (0–15%)**
+
+   * *Definition*: Integration of persona into actual dialogue turns.
+   * *Indicators*:
+
+     * Responses demonstrate how persona would react to the situation (e.g., brings in quirks, experiences).
+     * Avoids generic or out-of-character answers.
+   * *Scoring*:
+
+     * **90+**: Every answer feels persona-specific.
+     * **60–70**: Mixed; some turns in-character, others generic.
+     * **<40**: Responses barely shaped by persona context.
+
+5. **Creativity & Depth (0–15%)**
+
+   * *Definition*: Enrichment of persona beyond surface traits in the prompt.
+   * *Indicators*:
+
+     * Expands naturally with anecdotes, quirks, or internal logic consistent with the description.
+     * Avoids shallow one-sentence replies.
+   * *Scoring*:
+
+     * **90+**: Adds vivid details that enhance believability.
+     * **60–70**: Some elaboration, mostly surface-level.
+     * **<40**: Flat, repetitive, or lifeless responses.
+
+6. **Engagement & Coherence (0–10%)**
+
+   * *Definition*: Smoothness of conversation while staying in character.
+   * *Indicators*:
+
+     * Builds on previous turns.
+     * Responses are coherent and engaging.
+   * *Scoring*:
+
+     * **90+**: Fully coherent, engaging flow.
+     * **60–70**: Some dropped context or awkward transitions.
+     * **<40**: Disjointed, hard to follow.
